@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "AllPendingRequestByHR",
+    "RelativePath": "api/TravelRequest/{HRid}/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "HRid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "GetTravelRequestById",
+    "RelativePath": "api/TravelRequest/{trid})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "UpdateTravelRequestById",
+    "RelativePath": "api/TravelRequest/{trid}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "u",
+        "Type": "EmployeeTravelTask.DTOs.Request.TravelRequestHRRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "CalculateBudget",
+    "RelativePath": "api/TravelRequest/calculatebudget",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "travelRequestid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "GetAllLocations",
+    "RelativePath": "api/TravelRequest/locations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeTravelTask.Controllers.TravelRequestController",
+    "Method": "AddTravelRequest",
+    "RelativePath": "api/TravelRequest/new",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "EmployeeTravelTask.DTOs.Request.TravelRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

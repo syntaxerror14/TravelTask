@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\dal\\classes\\travelrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\dal\\classes\\travelrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\controllers\\travelrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\controllers\\travelrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\dtos\\request\\travelrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\dtos\\request\\travelrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\services\\classes\\travelrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\services\\classes\\travelrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\models\\travelplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\models\\travelplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|c:\\users\\2318511\\source\\repos\\employeetraveltask\\employeetraveltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCCFA04-2E0E-4DF4-810F-27976963071D}|EmployeeTravelTask\\EmployeeTravelTask.csproj|solutionrelative:employeetraveltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Program.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:56:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Controllers\\TravelRequestController.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\Controllers\\TravelRequestController.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Controllers\\TravelRequestController.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\Controllers\\TravelRequestController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:54:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelRequestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\DAL\\Classes\\TravelRequestRepo.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\DAL\\Classes\\TravelRequestRepo.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\DAL\\Classes\\TravelRequestRepo.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\DAL\\Classes\\TravelRequestRepo.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA7wCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:53:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\DTOs\\Request\\TravelRequestDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\DTOs\\Request\\TravelRequestDTO.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\DTOs\\Request\\TravelRequestDTO.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\DTOs\\Request\\TravelRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:53:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Services\\Classes\\TravelRequestService.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\Services\\Classes\\TravelRequestService.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Services\\Classes\\TravelRequestService.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\Services\\Classes\\TravelRequestService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:51:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravelPlannerContext.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Models\\TravelPlannerContext.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\Models\\TravelPlannerContext.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Models\\TravelPlannerContext.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\Models\\TravelPlannerContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvxwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:51:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeTravelTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\2318511\\source\\repos\\EmployeeTravelTask\\EmployeeTravelTask\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeTravelTask\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:51:08.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
